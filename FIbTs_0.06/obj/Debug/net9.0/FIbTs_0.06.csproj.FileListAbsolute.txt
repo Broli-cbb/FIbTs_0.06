@@ -1,0 +1,14 @@
+C:\Users\studentas\RiderProjects\FIbTs_0.06\FIbTs_0.06\obj\Debug\net9.0\FIbTs_0.06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentas\RiderProjects\FIbTs_0.06\FIbTs_0.06\obj\Debug\net9.0\FIbTs_0.06.AssemblyInfoInputs.cache
+C:\Users\studentas\RiderProjects\FIbTs_0.06\FIbTs_0.06\obj\Debug\net9.0\FIbTs_0.06.AssemblyInfo.cs
+C:\Users\studentas\RiderProjects\FIbTs_0.06\FIbTs_0.06\obj\Debug\net9.0\FIbTs_0.06.csproj.CoreCompileInputs.cache
+C:\Users\studentas\RiderProjects\FIbTs_0.06\FIbTs_0.06\bin\Debug\net9.0\FIbTs_0.06.exe
+C:\Users\studentas\RiderProjects\FIbTs_0.06\FIbTs_0.06\bin\Debug\net9.0\FIbTs_0.06.deps.json
+C:\Users\studentas\RiderProjects\FIbTs_0.06\FIbTs_0.06\bin\Debug\net9.0\FIbTs_0.06.runtimeconfig.json
+C:\Users\studentas\RiderProjects\FIbTs_0.06\FIbTs_0.06\bin\Debug\net9.0\FIbTs_0.06.dll
+C:\Users\studentas\RiderProjects\FIbTs_0.06\FIbTs_0.06\bin\Debug\net9.0\FIbTs_0.06.pdb
+C:\Users\studentas\RiderProjects\FIbTs_0.06\FIbTs_0.06\obj\Debug\net9.0\FIbTs_0.06.dll
+C:\Users\studentas\RiderProjects\FIbTs_0.06\FIbTs_0.06\obj\Debug\net9.0\refint\FIbTs_0.06.dll
+C:\Users\studentas\RiderProjects\FIbTs_0.06\FIbTs_0.06\obj\Debug\net9.0\FIbTs_0.06.pdb
+C:\Users\studentas\RiderProjects\FIbTs_0.06\FIbTs_0.06\obj\Debug\net9.0\FIbTs_0.06.genruntimeconfig.cache
+C:\Users\studentas\RiderProjects\FIbTs_0.06\FIbTs_0.06\obj\Debug\net9.0\ref\FIbTs_0.06.dll
